@@ -33,7 +33,7 @@ https://sprint-3-virid.vercel.app/
 
 
 ## 📂 Project Structure
-'''
+
 Weather-Cast/
 
 ├── index.html
@@ -43,7 +43,7 @@ Weather-Cast/
 ├── script.js
 
 └── weather.jpg
-'''
+
 
 ## 🔑 API Setup
 
@@ -61,6 +61,3 @@ const API_KEY = "YOUR_API_KEY";
 
 
 
-## 👨‍💻 Author
-
-Created as part of Sprint 03 - Weather-Cast API Integration Project
